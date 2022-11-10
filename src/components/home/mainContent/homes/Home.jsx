@@ -1,5 +1,7 @@
 import React from "react";
 import Popular from "../popular/Popular";
+import Ppost from "../Ppost/Ppost";
+import Life from "../life/Life"
 import "./style.css";
 
 const Home = () => {
@@ -9,6 +11,8 @@ const Home = () => {
         <div className="container">
           <section className="mainContent">
             <Popular />
+            <Ppost />
+            <Life />
           </section>
           <section className="sideContent"></section>
         </div>
