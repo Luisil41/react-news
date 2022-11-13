@@ -3,7 +3,7 @@ import Popular from "../popular/Popular";
 import Ppost from "../Ppost/Ppost";
 import Life from "../life/Life";
 import Music from "../musics/Music";
-import Side from "../../sideContent/side/Side"
+import Side from "../../sideContent/side/Side";
 import "./style.css";
 
 const Home = () => {
